@@ -10,7 +10,7 @@ And no change in score if the player looses.
 Screenshots:
 
 1. 
-<img src="https://user-images.githubusercontent.com/52229134/82887115-29cc7580-9f65-11ea-97e7-76d65bbb992f.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/52229134/82887119-2b963900-9f65-11ea-8ec5-0937526108f8.png" width="200" height="400" />
 
 2. 
-<img src="https://user-images.githubusercontent.com/52229134/82887119-2b963900-9f65-11ea-8ec5-0937526108f8.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/52229134/82887115-29cc7580-9f65-11ea-97e7-76d65bbb992f.png" width="200" height="400" />
